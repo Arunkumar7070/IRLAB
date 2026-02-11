@@ -1,0 +1,6 @@
+Machine learning is a part of AI.
+It uses data to learn and make decisions.
+Data science involves machine learning and statistics.
+A computer can learn from past data.
+Research in AI is useful for health and technology.
+Information retrieval also uses machine learning.

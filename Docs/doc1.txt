@@ -1,0 +1,6 @@
+Information retrieval is the process of finding material.
+It helps in getting data from a large database.
+We use computers for information retrieval.
+Search engines are a form of information retrieval.
+Machine learning helps improve the results.
+Research in this field is growing fast.

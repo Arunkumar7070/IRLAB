@@ -1,0 +1,6 @@
+Football is a popular sport in the world.
+Players play football on a large field.
+Sports help in maintaining good health.
+Many people watch football news on a computer.
+Data about football players is kept in a database.
+Club football uses data science for better results.

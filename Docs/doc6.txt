@@ -1,0 +1,6 @@
+Data science uses computer algorithms.
+It analyzes large sets of data.
+Machine learning is a core part of data science.
+Companies use data to make better business plans.
+Research in data science is very popular now.
+Information retrieval is also linked to data science.

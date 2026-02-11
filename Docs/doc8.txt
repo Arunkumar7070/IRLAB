@@ -1,0 +1,6 @@
+A database stores a lot of information.
+SQL is a language for the database.
+Information retrieval fetches data from a database.
+We need a fast computer to run a big database.
+Data integrity is important for research.
+Modern apps use a cloud database.
