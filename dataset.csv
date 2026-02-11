@@ -1,11 +1,11 @@
-doc_id,text,category
-D1,"Information retrieval involves searching for relevant documents. Machine learning improves search accuracy. We use databases to store data efficiently. Technology helps in modern research.",Tech
-D2,"Football is a popular sport played on a large field. Sports contribute to good health and fitness. Many fans watch football matches on TV. Players train hard to stay fit.",Sports
-D3,"Health is wealth for every human being. Doctors use data to treat patients effectively. Medical research leads to new cures for diseases. AI assists in diagnosing health conditions.",Health
-D4,"Education shapes the future of students in school. Teachers use computers to teach different subjects. Research in education helps improve learning methods. Students access information retrieval systems.",Education
-D5,"Artificial Intelligence is changing the world rapidly. Machine learning algorithms analyze using big data. Robots are used in various industries today. Research in AI is growing very fast.",Tech
-D6,"Data plays a key role in business decision making. Companies keep their records in a secure database. Information retrieval involves searching through this data. Analysis of data helps in growth.",Tech
-D7,"Sports news keeps fans updated about games. Football players are celebrities in the sports world. Health and nutrition are vital for athletes. Regular exercise prevents many health issues.",Sports
-D8,"Machine learning is a subset of AI technology. It involves training models on large datasets. Information retrieval uses these models for better ranking. Research papers are often stored in a database.",Tech
-D9,"University education provides specialized knowledge to students. Students conduct research to solve complex problems. Libraries use information retrieval to organize books. Access to data is crucial for learning.",Education
-D10,"Medical databases hold sensitive patient information securely. Research in health employs AI for better results. Doctors use technology to monitor patient health. Good health requires a balanced lifestyle.",Health
+doc_id,text
+D1,"Information retrieval involves searching for relevant documents. Machine learning improves search accuracy. We use databases to store data efficiently. Technology helps in modern research.
+D2,"Football is a popular sport played on a large field. Sports contribute to good health and fitness. Many fans watch football matches on TV. Players train hard to stay fit."
+D3,"Health is wealth for every human being. Doctors use data to treat patients effectively. Medical research leads to new cures for diseases. AI assists in diagnosing health conditions."
+D4,"Education shapes the future of students in school. Teachers use computers to teach different subjects. Research in education helps improve learning methods. Students access information retrieval systems."
+D5,"Artificial Intelligence is changing the world rapidly. Machine learning algorithms analyze using big data. Robots are used in various industries today. Research in AI is growing very fast."
+D6,"Data plays a key role in business decision making. Companies keep their records in a secure database. Information retrieval involves searching through this data. Analysis of data helps in growth."
+D7,"Sports news keeps fans updated about games. Football players are celebrities in the sports world. Health and nutrition are vital for athletes. Regular exercise prevents many health issues."
+D8,"Machine learning is a subset of AI technology. It involves training models on large datasets. Information retrieval uses these models for better ranking. Research papers are often stored in a database."
+D9,"University education provides specialized knowledge to students. Students conduct research to solve complex problems. Libraries use information retrieval to organize books. Access to data is crucial for learning."
+D10,"Medical databases hold sensitive patient information securely. Research in health employs AI for better results. Doctors use technology to monitor patient health. Good health requires a balanced lifestyle."
