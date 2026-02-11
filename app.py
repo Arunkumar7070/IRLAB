@@ -4,6 +4,8 @@ from collections import defaultdict, Counter
 import nltk
 #from nltk.corpus import stopwords
 #from nltk.stem import PorterStemmer, WordNetLemmatizer
+import pandas as pd
+
 
 
 
@@ -53,9 +55,15 @@ if __name__ == "__main__":
     #stemmer = PorterStemmer()
     #lemmatizer = WordNetLemmatizer()
 
-    #read the documents
+    #read the documents in txt format
     documents = []
     folder = "./Docs"   
+
+    #read the documents in csv format
+    df = pd.read_csv("dataset.csv")
+    documents = df["text"].tolist()
+    print("\nDocuments:")
+    print(documents)
 
     for file in os.listdir(folder):
         if file.endswith(".txt"):
